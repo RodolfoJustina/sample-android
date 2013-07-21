@@ -1,4 +1,4 @@
 sample-android
 ==============
 
-Segundo Evento do GUJavaSC
+Segundo Evento GUJavaSC
